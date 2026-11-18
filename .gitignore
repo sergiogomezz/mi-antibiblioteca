@@ -22,3 +22,8 @@ htmlcov/
 .DS_Store
 .idea/
 .vscode/
+
+# Biblioteca personal y frontend
+/data/
+node_modules/
+*.tsbuildinfo
