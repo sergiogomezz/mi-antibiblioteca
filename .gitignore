@@ -1,0 +1,24 @@
+# Entorno virtual y Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Cachés y cobertura
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Variables locales y secretos
+.env
+.env.*
+!.env.example
+
+# Sistema y editor
+.DS_Store
+.idea/
+.vscode/

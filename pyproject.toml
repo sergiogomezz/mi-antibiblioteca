@@ -1,0 +1,7 @@
+[project]
+name = "mi-antibiblioteca"
+version = "0.1.0"
+description = "Mi antibiblioteca"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
